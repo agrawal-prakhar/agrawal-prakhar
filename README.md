@@ -22,7 +22,7 @@
 - Hackathons, late-night debugging, and building things that surprise even me  
 - Systems programming, but make it fast  
 - Real-time AI (latency makes me twitchy)  
-- Quant finance (because math should move markets)  
+- Quant finance (because sometimes math can predict markets)  
 
 
 ---
