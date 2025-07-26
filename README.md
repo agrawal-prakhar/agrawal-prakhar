@@ -1,35 +1,38 @@
-### hey there, I’m Prakhar 👋
+### Hey there, I’m Prakhar 👋
 
-💻 CS, Math, Econ @ Amherst College  
-🤖 Builder of real-time voice agents, trading bots, and systems that (actually) scale  
-🌍 Visting Student at UC Berkeley for Spring 2025 soaking in sun, systems, and startups  
-
----
-
-### 🛠️ what I’ve been up to
-
-- 🗣️ building a voice agent that thinks, speaks, and responds — in real time (Deepgram + GPT + Cartesia)
-- 📈 creating mean-reverting pairs trading strategies using ML (KNN, LSTM, TensorFlow, PyTorch)
-- 🚀 optimizing ML pipelines using CUDA & RapidsAI for high-performance computing research
-- 🔐 securing distributed file systems (with cryptography, not duct tape)
-- 🧠 coaching peers on time management and study skills at Amherst’s Strategic Learning Center
+- 💻  CS, Math, Econ @ Amherst College  
+- 🌍  Visting Student at UC Berkeley for Spring 2025 
+- 🔭 Currently interning at Blue AI Labs building an AI powered full stack recruiting software including recommendations, job matches, and virtual assessments.
 
 ---
 
-### ⚡ a few favorite things
+### 🛠️ What I’ve been up to
 
+- 🤖 Building AI agents, trading bots, and systems that (actually) scale  
+- 🗣️ Building a voice agent that thinks, speaks, and responds — in real time
+- 📈 Creating mean-reverting pairs trading strategies using ML (KNN, LSTM, TensorFlow, PyTorch)
+- 🚀 Optimizing ML pipelines using CUDA & RapidsAI for high-performance computing research
+- 🔐 Securing distributed file systems (with cryptography, not duct tape)
+- 🧠 TAin for CS & Econ classes at Amherst College
+
+---
+
+### ⚡ Few favorite things
+
+- Hackathons, late-night debugging, and building things that surprise even me  
 - Systems programming, but make it fast  
 - Real-time AI (latency makes me twitchy)  
 - Quant finance (because math should move markets)  
-- Hackathons, late-night debugging, and building things that surprise even me  
+
 
 ---
 
-### 📫 let’s connect
+### 📫 Let’s connect
 
-- 🐦 Twitter: [@prakhar_a_](https://twitter.com/prakhar_a_)  
-- 💼 LinkedIn: [Prakhar Agrawal](https://linkedin.com/in/agrawal-prakhar-)  
-- 🌐 Portfolio / Projects: [prakhar-agrawal.com](https://prakhar-agrawal.com)
+- 📫 Email: [pagrawal27@amherst.edu](pagrawal27@amherst.edu)  
+- 💼 LinkedIn: [@agrawal-prakhar-](https://linkedin.com/in/agrawal-prakhar-)  
+- 🌐 Website: [prakhar-agrawal.com](https://prakhar-agrawal.com)
+- 🐦 Twitter: [@prakhar_a_](https://twitter.com/prakhar_a_) 
 
 ---
 
