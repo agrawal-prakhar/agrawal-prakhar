@@ -1,18 +1,39 @@
-## Hi everyone 👋
+### hey there, I’m Prakhar 👋
 
-I'm a CS & Econ student passionate about building real-time AI apps, quant finance models, and high-performance systems.
+💻 CS, Math, Econ @ Amherst College  
+🤖 Builder of real-time voice agents, trading bots, and systems that (actually) scale  
+🌍 Visting Student at UC Berkeley for Spring 2025 soaking in sun, systems, and startups  
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ what I’ve been up to
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawal-prakhar&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+- 🗣️ building a voice agent that thinks, speaks, and responds — in real time (Deepgram + GPT + Cartesia)
+- 📈 creating mean-reverting pairs trading strategies using ML (KNN, LSTM, TensorFlow, PyTorch)
+- 🚀 optimizing ML pipelines using CUDA & RapidsAI for high-performance computing research
+- 🔐 securing distributed file systems (with cryptography, not duct tape)
+- 🧠 coaching peers on time management and study skills at Amherst’s Strategic Learning Center
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-prakhar&layout=compact&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agrawal-prakhar&theme=radical)
+### ⚡ a few favorite things
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agrawal-prakhar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+- Systems programming, but make it fast  
+- Real-time AI (latency makes me twitchy)  
+- Quant finance (because math should move markets)  
+- Hackathons, late-night debugging, and building things that surprise even me  
+
+---
+
+### 📫 let’s connect
+
+- 🐦 Twitter: [@prakhar_a_](https://twitter.com/prakhar_a_)  
+- 💼 LinkedIn: [Prakhar Agrawal](https://linkedin.com/in/agrawal-prakhar-)  
+- 🌐 Portfolio / Projects: [prakhar-agrawal.com](https://prakhar-agrawal.com)
+
+---
+
+
 <!--
 **agrawal-prakhar/agrawal-prakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
