@@ -1,4 +1,4 @@
-### Hey there, I’m Prakhar 👋
+# Hey there, I’m Prakhar 👋
 
 - 💻  CS, Math, Econ @ Amherst College  
 - 🌍  Visting Student at UC Berkeley for Spring 2025 
