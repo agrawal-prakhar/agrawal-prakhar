@@ -2,7 +2,7 @@
 
 - 💻  CS, Math, Econ @ Amherst College  
 - 🌍  Visting Student at UC Berkeley for Spring 2025 
-- 🔭 Currently interning at Blue AI Labs building an AI powered full stack recruiting software including recommendations, job matches, and virtual assessments.
+- 🔭  Summer 2025 Machine Learning Engineer intern at Nevara building an AI powered full stack recruiting software including recommendations, job matches, and virtual assessments.
 
 ---
 
